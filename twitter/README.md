@@ -27,10 +27,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories: 
-Log In
-See API feed
-Like post, Retweet post, or compose post
-Automatic refresh of changes
-
+Log In -
+See API feed -
+Like post, Retweet post, or compose post -
+Automatic refresh of changes -
 
 <img src= 'TwitterGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
